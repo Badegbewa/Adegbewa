@@ -16,3 +16,9 @@
   <li>🧪 Focused on writing maintainable code, test cases, and refining my debugging process.</li>
   <li>💼 Seeking internship opportunities where I can contribute to impactful software and grow with a team.</li>
 </ul>
+<ul>
+  <li>🎓 Complete the ALX backend development program</li>
+  <li>📁 Build & deploy 3+ full-stack project APIs</li>
+  <li>🧪 Improve unit/integration testing and CI/CD skills</li>
+  <li>👨‍💻 Land an internship to apply my skills in the real world</li>
+</ul>
